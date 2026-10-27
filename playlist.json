@@ -24,6 +24,12 @@
     "cover": ""
   },
   {
+    "title": "piove ormai da tre giorni",
+    "artist": "Artista sconosciuto",
+    "src": "canzoni/piove%20ormai%20da%20tre%20giorni%20.mp3",
+    "cover": ""
+  },
+  {
     "title": "quando arrivano i suoi occhi jonny2",
     "artist": "Artista sconosciuto",
     "src": "canzoni/quando%20arrivano%20i%20suoi%20occhi%20jonny2.mp3",
@@ -45,6 +51,12 @@
     "title": "urlo e non mi senti jonny",
     "artist": "Artista sconosciuto",
     "src": "canzoni/urlo%20e%20non%20mi%20senti%20jonny.mp3",
+    "cover": ""
+  },
+  {
+    "title": "voglio solo il tuo sorriso",
+    "artist": "Artista sconosciuto",
+    "src": "canzoni/voglio%20solo%20il%20tuo%20sorriso.mp3",
     "cover": ""
   }
 ]
